@@ -4,14 +4,14 @@ As a dedicated data scientist, I thrive on transforming raw data into meaningful
 
 ## Professional Snapshot
 
-- **Education:** Master's in Data Science from Michigan Technological University (GPA: 3.58)
+- **Education:** Master's in Data Science from Michigan Technological University 
 - **Skills:** Proficient in Python, R, and statistical analysis. Experienced in machine learning, Exploratory Data Analysis(EDA), and visualization.
 
 ## Technical Proficiency
 
-- **Programming Languages:** Python, R, C, SPSS
+- **Programming Languages:** Python, R, C, SQL
 - **Data Science Skills:** Predictive Modeling, Statistical Analysis, Data Visualization, Data Mining
-- **Tools and Frameworks:** Jupyter, Visual Studio, RStudio, Git
+- **Tools and Frameworks:** Jupyter, Visual Studio, RStudio, Git, SPSS
 
 ## Let's Connect!
 
@@ -20,7 +20,8 @@ I am actively seeking an internship or co-op opportunity to apply my data scienc
 ## Reach Out
 
   📫 Follow me on Linkedin ➡︎ www.linkedin.com/in/haranadh-reddy-ravi
-                Reach me at ➡︎ ravi.haranadhreddy@gmail.com
+
+  📫 Reach me at ➡︎ ravi.haranadhreddy@gmail.com
 
 Excited to discuss how my skills align with your data science needs and contribute to your team's success. Let's turn data into actionable insights together!
 
