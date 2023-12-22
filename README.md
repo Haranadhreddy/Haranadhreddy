@@ -13,10 +13,6 @@ As a dedicated data scientist, I thrive on transforming raw data into meaningful
 - **Data Science Skills:** Predictive Modeling, Statistical Analysis, Data Visualization, Data Mining
 - **Tools and Frameworks:** Jupyter, Visual Studio, RStudio, Git, SPSS
 
-## Let's Connect!
-
-I am actively seeking an internship or co-op opportunity to apply my data science expertise in a challenging and innovative environment. If you're looking for a detail-oriented data scientist who combines analytical skills with creativity, let's connect!
-
 ## Reach Out
 
   📫 Follow me on Linkedin ➡︎ www.linkedin.com/in/haranadh-reddy-ravi
