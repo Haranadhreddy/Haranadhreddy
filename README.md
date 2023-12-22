@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Haranadh Reddy Ravi] - Data Scientist Extraordinaire! 👨‍💻
+# Hi there 👋, I'm Haranadh Reddy Ravi - Data Scientist Extraordinaire! 👨‍💻
 
 As a dedicated data scientist, I thrive on transforming raw data into meaningful insights. My journey has taken me from a solid foundation in Mechanical Engineering to the dynamic world of Data Science. Let me give you a glimpse into my data-driven world.
 
@@ -11,12 +11,7 @@ As a dedicated data scientist, I thrive on transforming raw data into meaningful
 
 - **Programming Languages:** Python, R, C, SPSS
 - **Data Science Skills:** Predictive Modeling, Statistical Analysis, Data Visualization, Data Mining
-- **Tools and Frameworks:** [Jupyter, Visual Studio, RStudio, Git]
-
-## Real-World Applications
-
-- Bridged the gap between virtual design and physical production by designing and 3D printing an F1 car using Solid Edge and Blender.
-- Successfully certified in C programming, CNC programming, HTML, and Data Science by recognized institutions.
+- **Tools and Frameworks:** Jupyter, Visual Studio, RStudio, Git
 
 ## Let's Connect!
 
@@ -24,8 +19,8 @@ I am actively seeking an internship or co-op opportunity to apply my data scienc
 
 ## Reach Out
 
-- [LinkedIn](your-linkedin-profile)
-- [Email](your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/haranadh-reddy-ravi)
+- [Email](mailto:ravi.haranadhreddy@gmail.com)
 
 Excited to discuss how my skills align with your data science needs and contribute to your team's success. Let's turn data into actionable insights together!
 
