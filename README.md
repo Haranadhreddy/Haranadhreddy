@@ -19,8 +19,8 @@ I am actively seeking an internship or co-op opportunity to apply my data scienc
 
 ## Reach Out
 
-  www.linkedin.com/in/haranadh-reddy-ravi
-  Reach me at ➡︎ ravi.haranadhreddy@gmail.com
+  📫 Follow me on Linkedin ➡︎ www.linkedin.com/in/haranadh-reddy-ravi
+                Reach me at ➡︎ ravi.haranadhreddy@gmail.com
 
 Excited to discuss how my skills align with your data science needs and contribute to your team's success. Let's turn data into actionable insights together!
 
