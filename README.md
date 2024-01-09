@@ -28,7 +28,7 @@ Tools and Frameworks: Jupyter, Visual Studio, RStudio, Git, and the magic of SPS
 
   
   
-  📫 Reach me at ➡︎ ravi.haranadhreddy@gmail.com
+  📫 Reach me at ➡︎ haranadhreddy.ravi@gmail.com
 
 Excited to discuss how my skills align with your data science needs and contribute to your team's success. Let's turn data into actionable insights together!
 
